@@ -1,0 +1,11 @@
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.vbprojResolveAssemblyReference.cache
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.Resources.resources
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.vbproj.GenerateResource.Cache
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.vbproj.CoreCompileInputs.cache
+D:\Documents\TextChan\TextChan\bin\Debug\TextChan.exe.config
+D:\Documents\TextChan\TextChan\bin\Debug\TextChan.exe
+D:\Documents\TextChan\TextChan\bin\Debug\TextChan.pdb
+D:\Documents\TextChan\TextChan\bin\Debug\TextChan.xml
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.exe
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.xml
+D:\Documents\TextChan\TextChan\obj\Debug\TextChan.pdb
